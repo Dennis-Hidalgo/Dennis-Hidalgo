@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![logo](https://raw.githubusercontent.com/Dennis-Hidalgo/Dennis-Hidalgo/main/Images/github_portada.webp)
-
+ 
 <!--
 **Dennis-Hidalgo/Dennis-Hidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
